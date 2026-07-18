@@ -18,8 +18,7 @@ The same 10 test messages were evaluated across **ChatGPT, Claude, and Gemini** 
 | 1  | My order arrived late and the packaging was damaged... | Complaint   |
 | 2  | How do I reset my password?...                       | Question    |
 | 3  | The product is exactly as described...               | Praise      |
-| 4  | I'm very disappointed with the customer service response time. No one 
-replied for days.                                          | Complaint      |
+| 4  | I'm very disappointed with the customer service response time. No one replied for day.   | Complaint      |
 | 5  | What are the return options if the item doesn't fit?             |  Question      |
 | 6  | Amazing support team! You solved my issue in minutes. Highly recommend.  | Praise   |
 | 7  | The battery life is much worse than advertised. I want a refund.                    | Complaint  |
