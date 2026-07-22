@@ -67,5 +67,6 @@ This project highlights when prompt engineering techniques add real value.
 ## Author
 **Sumaira Safeer**  
 Computer Engineer 
+[LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
 
 ---
